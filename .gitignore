@@ -1,0 +1,10 @@
+checkpoint-tweet/*
+*.pyc
+Twitter Streaming Project.docx
+pics/
+docs/
+spark-warehouse/
+credentials.py
+.DS_Store
+.ipynb_checkpoints/
+twitterSteaming.ipynb
